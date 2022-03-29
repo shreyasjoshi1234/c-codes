@@ -17,5 +17,5 @@ class pro
 
 int main()
 {
-   pro p1;   
+   pro p1,p2,p3;   
 }
